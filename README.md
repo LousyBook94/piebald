@@ -1,20 +1,30 @@
 # <img src="./assets/logo.svg" width="25"> Piebald Issue Tracker
 
+<p align="center">
 <a href="https://piebald.ai/discord"><img src="./assets/discord.png" alt="Discord" height="40"></a> <a href="https://x.com/PiebaldAI"><img src="./assets/x.png" alt="X" height="40"></a>
+</p>
 
-The ultimate agentic AI control experience for developers. https://piebald.ai
+<p align="center">
+The ultimate agentic AI control experience for developers. <a href="https://piebald.ai">https://piebald.ai</a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Piebald-AI/piebald/issues/new"><img src="./assets/feedback-button.png" alt="Report Issue" height="75"></a>
 </p>
 
-<a href="https://piebald.ai">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://piebald.ai/screenshot-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://piebald.ai/screenshot-light.png">
-    <img alt="Piebald" src="https://piebald.ai/screenshot-light.png">
-  </picture>
-</a>
+<p align="center">
+  <a href="https://piebald.ai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://piebald.ai/screenshot-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://piebald.ai/screenshot-light.png">
+      <img alt="Piebald" src="https://piebald.ai/screenshot-light.png">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://piebald.ai/downloads"><img src="./assets/download.png" alt="Downloads" height="110"></a>
+</p>
 
 ---
 
