@@ -23,37 +23,65 @@ The ultimate agentic AI control experience for developers. <a href="https://pieb
 </p>
 
 <p align="center">
-  <a href="https://piebald.ai/downloads"><img src="./assets/download.png" alt="Downloads" height="110"></a>
+  <a href="https://piebald.ai/downloads"><img src="./assets/download.png" alt="Downloads" height="50"></a>
 </p>
 
 ---
 
-## ✨ Features
+## Key Features
 
-- **💾 Persisted Sessions** - All sessions accessible from sidebar with preserved status. Tool calls waiting for approval remain intact across reboots.
+- **Persisted Sessions** – All sessions are accessible from the sidebar with preserved status. Tool calls awaiting approval remain intact across reboots.
 
-- **⚙️ Fine-Grained Configuration** - Customize system prompts, inference hyperparameters (temperature, stop sequences, max tokens), provider-specific fields, and custom JSON overrides. Enable/disable MCP servers and tools per-chat or per-profile.
+- **Fine-Grained Configuration** – Customize system prompts, inference hyperparameters (temperature, stop sequences, max tokens), provider-specific fields, and custom JSON overrides. Enable/disable MCP servers and tools per-chat or per-profile.
 
-- **📁 Profiles** - Create reusable collections of configurations and tools for any conversation.
+- **Profiles** – Create reusable collections of configurations and tools to quickly switch between different workflows.
 
-- **🔍 HTTP Traffic Inspector** - View all agentic HTTP requests, responses, bodies, headers, status codes, durations, and streamed SSE chunks in real-time. (MCP traffic inspection coming soon)
+- **HTTP Traffic Inspector** – Real-time monitoring of all agentic HTTP requests, responses, and streamed SSE chunks. View bodies, headers, status codes, and durations.
 
-- **🧩 Agent Skills & Plan Mode** - Load [agent skills](https://agentskills.io/home), use plan mode to devise solutions awaiting approval, and manually compact chats to preserve context with auto-compaction thresholds.
+- **Agent Skills & Plan Mode** – Load [agent skills](https://agentskills.io/home), use plan mode to devise multi-step solutions, and manage context with manual or auto-compaction.
 
----
+- **Deep File & Project Integration** – Use `@-mentioning` to reference files, leverage `AGENTS.md` for project-wide instructions, and interact with the filesystem through powerful agent tools.
 
-## 🔗 Quick Links
+- **Multi-Provider AI** – Support for OpenAI, Anthropic, Google Gemini, and Amazon Bedrock. (OAuth login for ChatGPT/Claude subscriptions coming soon).
 
-- 📖 [Docs](https://docs.piebald.ai)
-- 🗺️ [Roadmap](https://docs.piebald.ai/roadmap)
-- 💾 [Downloads](https://piebald.ai/downloads)
-- 💰 [Pricing](https://piebald.ai/pricing)
-- 📝 [Blog](https://piebald.ai/blog)
+- **Integrated Search & Web Fetch** – Agents can perform web searches and fetch content from URLs to stay informed with real-time data.
 
 ---
 
-## 📞 Get Help
+## Roadmap
 
-- 💬 [Discord](https://piebald.ai/discord) - Real-time support
-- 🐦 [@PiebaldAI](https://x.com/PiebaldAI) - Updates
-- 📧 support@piebald.ai
+### 🚧 In Progress
+- **Direct OAuth Login**
+- **Chat Pausing & Branching**
+- **Enhanced Project Support**
+- **Context Management**
+
+### 📅 Planned
+- **Web Version**
+- **Sub-agents**
+- **Unified Import**
+- **Piebald Cloud**
+
+### 🚀 Future
+- **MCP Traffic Viewer**
+- **Sandboxing**
+- **Customization**
+- **Smart Notifications**
+
+---
+
+## Quick Links
+
+- [Documentation](https://docs.piebald.ai)
+- [Roadmap](https://docs.piebald.ai/roadmap)
+- [Downloads](https://piebald.ai/downloads)
+- [Pricing](https://piebald.ai/pricing)
+- [Blog](https://piebald.ai/blog)
+
+---
+
+## Support
+
+- [Discord](https://piebald.ai/discord) – Real-time community support
+- [X (formerly Twitter)](https://x.com/PiebaldAI) – Official updates
+- Email: support@piebald.ai
